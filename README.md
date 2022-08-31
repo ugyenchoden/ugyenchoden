@@ -9,14 +9,10 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 **Backend Engineer** @ [SELISE](https://selise.ch//) _(Jul 2019 - Present)_ <br>
 - Wrote code in multiple architecture layers, including the application core and integrations with external services
 - Worked in a cross-functional, agile team to rebuild and rebrand
+- Tested programs and databases to identify issues and make necessary modifications
+- Designed, developed and implemented software applications for website based on analyzed requirements and understanding of industry technical standards
 - **_Technologies used:_** Rails, GraphQL, REST, RSpec, PostgreSQL, MongoDB
   <br><br>
-
-## 🏆 Accomplishments
-
-**Won Third Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model.
-
 
 ## 💬 Languages
 
