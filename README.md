@@ -25,9 +25,6 @@ Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband 
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor Engineering ** in Information Technology<br>
+**Bachelor of Engineering** in Information Technology<br>
 [CST](https://www.cst.edu.bt/index.php/en/) - Rinchending, Phuentsholing, Bhutan _(2015 - 2019)_
 
