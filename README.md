@@ -27,7 +27,7 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 - Wrote PostgreSQL queries that power the Supply Chain database, often spanning 50+ lines. 
 - Analyzed & optimized PostgreSQL performance in Ruby on Rails. 
 - Reviewed 10+ Pull Requests Per Week for a team of 10 plus Ruby on Rails developers. 
-- Followed Test-Driven Development methodology using RSpec, using Capybara for integration tests. 
+- Followed Test-Driven Development methodology using RSpec for integration/unit tests. 
 - Shared senior developer duties of Interviewing & On-boarding new developers. 
 - Configured Amazon Web Services to for hosting images and assets.
   <br><br>
