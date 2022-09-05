@@ -42,3 +42,13 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 **Bachelor of Engineering** in Information Technology<br>
 [CST](https://www.cst.edu.bt/index.php/en/) - Rinchending, Phuentsholing, Bhutan _(2015 - 2019)_
 
+
+
+📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=cugyen&theme=dracula&"><p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cugyen&show_icons=true&theme=dracula&locale=en" alt="prabarai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cugyen&theme=dracula&" alt="prabarai" /></p>
+
