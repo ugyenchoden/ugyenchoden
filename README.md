@@ -52,3 +52,8 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cugyen&theme=dracula&" alt="prabarai" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cugyen&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/cugyen"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=cugyen&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
