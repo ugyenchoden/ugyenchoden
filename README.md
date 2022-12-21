@@ -2,7 +2,7 @@
 
 _Software engineer based in Thimphu, Bhutan_ <br>
 
-[Email](mailto:cugyen20gmail.com) / [LinkedIn](https://www.linkedin.com/in/ugyen-choden-a11b791a2/) / [GitHub](https://github.com/cugyen) / [DEV](https://dev.to/cugyen)
+[Email](mailto:cugyen20gmail.com) / [LinkedIn](https://www.linkedin.com/in/ugyen-choden-a11b791a2/) / [GitHub](https://github.com/ugyenchoden) / [DEV](https://dev.to/cugyen)
 
 **🌐 Web Development**
 - RESTful or GraphQL API Design that is compliant to Google's JSON:API standards. 
@@ -46,14 +46,14 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 
 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=cugyen&theme=dracula&"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=ugyenchoden&theme=dracula&"><p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cugyen&show_icons=true&theme=dracula&locale=en" alt="prabarai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugyenchoden&show_icons=true&theme=dracula&locale=en" alt="prabarai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cugyen&theme=dracula&" alt="prabarai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugyenchoden&theme=dracula&" alt="ugyenchoden" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cugyen&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugyenchoden&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/cugyen"><p>
+<p><img src="https://metrics.lecoq.io/ugyenchoden"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=cugyen&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=ugyenchoden&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
