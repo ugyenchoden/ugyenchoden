@@ -55,16 +55,6 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugyenchoden&theme=dracula&" alt="ugyenchoden" /></p>
 
-<p><img src="https://metrics.lecoq.io/ugyenchoden"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=ugyenchoden&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
-
-
- <div>
-  <a href="https://github.com/ugyenchoden">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugyenchoden&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ugyenchoden&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
 
 ![Snake animation](https://github.com/ugyenchoden/ugyenchoden/blob/output/github-contribution-grid-snake.svg)
 
