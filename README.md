@@ -25,10 +25,6 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Backend Engineer** @ [SELISE](https://selise.ch//) _(Jul 2019 - Present)_ <br>
-> *Developed back-end features for 4 plus apps, out of which 3 are CPQ used by
-> telecom and construction companies in Switzerland. One is live streaming based ecommerce app which
-> includes Agora, twilio and stripe integration.*
-
 - Wrote PostgreSQL queries that power the Supply Chain database, often spanning 50+ lines.
 - Analyzed & optimized PostgreSQL performance in Ruby on Rails.
 - Reviewed 10+ Pull Requests Per Week for a team of 10 plus Ruby on Rails developers.
