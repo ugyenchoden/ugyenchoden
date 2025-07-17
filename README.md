@@ -2,7 +2,7 @@
 
 _Software engineer based in Thimphu, Bhutan_ <br>
 
-[Email](mailto:cugyen20gmail.com) / [LinkedIn](https://www.linkedin.com/in/ugyen-choden-a11b791a2/)
+[Email](mailto:cugyen20gmail.com) / [LinkedIn](https://www.linkedin.com/in/iugyenc/)
 / [GitHub](https://github.com/ugyenchoden) / [DEV](https://dev.to/cugyen)
 
 **🌐 Web Development**
@@ -24,7 +24,7 @@ _Software engineer based in Thimphu, Bhutan_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Backend Engineer** @ [SELISE](https://selise.ch//) _(Jul 2019 - Present)_ <br>
+**Backend Engineer** @ [SELISE](https://selise.ch//) _(Jul 2019 - Feb 2024)_ <br>
 > *Developed back-end features for 4 plus apps, out of which 3 are CPQ used by
 > telecom and construction companies in Switzerland. One is live streaming based ecommerce app which
 > includes Agora, twilio and stripe integration.*
