@@ -1,6 +1,6 @@
 # Hi, I am Ugyen Choden
 
-_Software engineer based in Thimphu, Bhutan_ <br>
+_Software engineer_ <br>
 
 [Email](mailto:cugyen20gmail.com) / [LinkedIn](https://www.linkedin.com/in/iugyenc/)
 / [GitHub](https://github.com/ugyenchoden) / [DEV](https://dev.to/cugyen)
